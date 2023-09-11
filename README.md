@@ -10,7 +10,7 @@
 <li>Movie Details: Clicking on a movie displays its details, including poster, title, genre, description, cast members, and similar movies.</li>
 <li>Cast Member Details: Clicking on a cast member provides information such as biography, popularity, and a list of other movies they've acted in.</li>
 
-### Technologies Used:
+## Technologies Used:
 
 - React Native: A JavaScript framework for building native mobile applications.
 - Tailwind CSS: A utility-first CSS framework used for styling the application's components.
