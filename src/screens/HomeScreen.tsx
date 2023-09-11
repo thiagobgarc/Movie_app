@@ -10,6 +10,8 @@ import MovieList from "../components/movie_List";
 import { useNavigation } from "@react-navigation/native";
 import Loading from "../components/loading";
 import { fetchTrendingMovies, fetchUpcomingMovies, fetchTopRatedMovies } from "../api/movieAPI";
+import { config } from 'dotenv';
+config();
 
 // ios or android
 const ios = Platform.OS == "ios";
